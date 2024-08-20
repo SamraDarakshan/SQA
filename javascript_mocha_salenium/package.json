@@ -1,0 +1,16 @@
+{
+  "name": "javascript_mocha_salenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout60000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^117.0.3",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^3.6.0"
+  }
+}
