@@ -1,0 +1,20 @@
+package com.crm.qa.pages;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+
+import com.crm.qa.base.TestBase;
+
+public class DashoboardPage extends TestBase {
+	//@FindBy(xpath="//p[contains(text(),'Forgot your password?')]")
+	
+	@FindBy(xpath="//p[contains (text(),'Paul Collings')]")
+	WebElement userLabel;
+	
+	//@FindBy(xpath="//a[text()='About']")
+	@FindBy(linkText("About"))
+	WebElement about;
+	
+	
+	
+}
