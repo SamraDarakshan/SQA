@@ -1,0 +1,49 @@
+2024-09-21 03:45:06,258 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2024-09-21 03:45:06,286 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2024-09-21 03:45:06,286 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2024-09-21 03:45:06,293 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2024-09-21 03:45:06,294 INFO o.a.j.JMeter: Version 5.6.3
+2024-09-21 03:45:06,294 INFO o.a.j.JMeter: java.version=11.0.10
+2024-09-21 03:45:06,294 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2024-09-21 03:45:06,294 INFO o.a.j.JMeter: os.name=Windows 10
+2024-09-21 03:45:06,294 INFO o.a.j.JMeter: os.arch=amd64
+2024-09-21 03:45:06,294 INFO o.a.j.JMeter: os.version=10.0
+2024-09-21 03:45:06,294 INFO o.a.j.JMeter: file.encoding=Cp1252
+2024-09-21 03:45:06,294 INFO o.a.j.JMeter: java.awt.headless=null
+2024-09-21 03:45:06,295 INFO o.a.j.JMeter: Max memory     =4236247040
+2024-09-21 03:45:06,295 INFO o.a.j.JMeter: Available Processors =8
+2024-09-21 03:45:06,305 INFO o.a.j.JMeter: Default Locale=English (United States)
+2024-09-21 03:45:06,305 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2024-09-21 03:45:06,305 INFO o.a.j.JMeter: JMeterHome=D:\Personal\Automation-Prac\SQA_Trainings_SeleniumJava\SQATrainings_Softwares\apache-jmeter-5.6.3
+2024-09-21 03:45:06,305 INFO o.a.j.JMeter: user.dir  =D:\Personal\Automation-Prac\SQA_Trainings_SeleniumJava\SQATrainings_Softwares\apache-jmeter-5.6.3\bin
+2024-09-21 03:45:06,305 INFO o.a.j.JMeter: PWD       =D:\Personal\Automation-Prac\SQA_Trainings_SeleniumJava\SQATrainings_Softwares\apache-jmeter-5.6.3\bin
+2024-09-21 03:45:06,307 INFO o.a.j.JMeter: IP: 192.168.1.104 Name: RC2040 FullName: RC2040
+2024-09-21 03:45:06,320 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2024-09-21 03:45:06,532 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2024-09-21 04:00:19,547 INFO o.a.j.g.a.t.TemplateManager: Reading templates from: D:\Personal\Automation-Prac\SQA_Trainings_SeleniumJava\SQATrainings_Softwares\apache-jmeter-5.6.3\bin\templates\templates.xml
+2024-09-21 04:03:37,216 INFO o.a.j.g.a.Load: Loading file: C:\Users\SAMRAD~1\AppData\Local\Temp\Recording3869956450663709.output
+2024-09-21 04:03:37,385 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2024-09-21 04:03:37,392 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2024-09-21 04:03:37,394 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2024-09-21 04:03:37,395 INFO o.a.j.s.SaveService: Loading file: C:\Users\SAMRAD~1\AppData\Local\Temp\Recording3869956450663709.output
+2024-09-21 04:03:37,413 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2024-09-21 04:03:37,647 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2024-09-21 04:03:37,647 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file D:\Personal\Automation-Prac\SQA_Trainings_SeleniumJava\SQATrainings_Softwares\apache-jmeter-5.6.3\bin\proxyserver.jks
+2024-09-21 04:03:37,672 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-09-21 04:03:37,672 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-09-21 04:03:37,672 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-09-21 04:03:37,672 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-09-21 04:03:37,672 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2024-09-21 04:03:37,673 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2024-09-21 04:03:37,865 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2024-09-21 04:03:37,865 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2024-09-21 04:03:37,865 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2024-09-21 04:03:37,865 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2024-09-21 04:12:46,476 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2024-09-21 04:12:46,477 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2024-09-21 04:12:46,717 INFO o.a.j.p.h.p.ProxyControl: Creating HTTP(S) Test Script Recorder Root CA in D:\Personal\Automation-Prac\SQA_Trainings_SeleniumJava\SQATrainings_Softwares\apache-jmeter-5.6.3\bin\proxyserver.jks, ensure you install certificate in your Browser for recording
+2024-09-21 04:12:50,848 INFO o.a.j.p.h.p.ProxyControl: Created keystore in D:\Personal\Automation-Prac\SQA_Trainings_SeleniumJava\SQATrainings_Softwares\apache-jmeter-5.6.3\bin\proxyserver.jks
+2024-09-21 04:12:50,977 INFO o.a.j.s.FileServer: Default base='D:\Personal\Automation-Prac\SQA_Trainings_SeleniumJava\SQATrainings_Softwares\apache-jmeter-5.6.3\bin'
+2024-09-21 04:12:50,978 INFO o.a.j.p.h.p.Daemon: Creating Daemon Socket on port: 3030
+2024-09-21 04:12:50,984 INFO o.a.j.p.h.p.Daemon: Test Script Recorder up and running!
+2024-09-21 04:16:15,682 INFO o.a.j.p.h.p.Daemon: HTTP(S) Test Script Recorder stopped

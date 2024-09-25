@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="38" passed="35" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-18T05:04:09 PKT" name="Sanity Suite" finished-at="2024-09-18T05:04:10 PKT" duration-ms="1059">
+    <groups>
+      <group name="userRegistration">
+        <method signature="MvnTestNGTest.loginTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" name="loginTest" class="com.mvn.testng.project.MvnTestNGTest"/>
+      </group> <!-- userRegistration -->
+      <group name="login">
+        <method signature="MvnTestNGTest.loginTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" name="loginTest" class="com.mvn.testng.project.MvnTestNGTest"/>
+      </group> <!-- login -->
+    </groups>
+    <test started-at="2024-09-18T05:04:09 PKT" name="Singnup" finished-at="2024-09-18T05:04:10 PKT" duration-ms="1059">
+      <class name="com.mvn.testng.project.MvnTestNGTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" started-at="2024-09-18T05:04:09 PKT" name="beforeSuite" finished-at="2024-09-18T05:04:09 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="createDbConnec()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" started-at="2024-09-18T05:04:09 PKT" name="createDbConnec" finished-at="2024-09-18T05:04:09 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDbConnec -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" started-at="2024-09-18T05:04:09 PKT" name="setUp" finished-at="2024-09-18T05:04:09 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="activeTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" started-at="2024-09-18T05:04:09 PKT" name="activeTest" finished-at="2024-09-18T05:04:09 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- activeTest -->
+        <test-method signature="loginTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" started-at="2024-09-18T05:04:09 PKT" name="loginTest" finished-at="2024-09-18T05:04:09 PKT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" started-at="2024-09-18T05:04:09 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:09 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" started-at="2024-09-18T05:04:09 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:09 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method signature="repeatTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" started-at="2024-09-18T05:04:09 PKT" name="repeatTest" finished-at="2024-09-18T05:04:09 PKT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- repeatTest -->
+        <test-method signature="repeatTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" started-at="2024-09-18T05:04:09 PKT" name="repeatTest" finished-at="2024-09-18T05:04:09 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- repeatTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" started-at="2024-09-18T05:04:09 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:09 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" started-at="2024-09-18T05:04:09 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:09 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method signature="repeatTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" started-at="2024-09-18T05:04:09 PKT" name="repeatTest" finished-at="2024-09-18T05:04:09 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- repeatTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" started-at="2024-09-18T05:04:09 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:09 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method signature="timeSensitiveTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" started-at="2024-09-18T05:04:09 PKT" name="timeSensitiveTest" finished-at="2024-09-18T05:04:10 PKT" duration-ms="1014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timeSensitiveTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" started-at="2024-09-18T05:04:10 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:10 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method signature="userRegistration()[pri:1, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" started-at="2024-09-18T05:04:10 PKT" name="userRegistration" finished-at="2024-09-18T05:04:10 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userRegistration -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" started-at="2024-09-18T05:04:10 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:10 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method signature="login()[pri:2, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" started-at="2024-09-18T05:04:10 PKT" name="login" finished-at="2024-09-18T05:04:10 PKT" depends-on-methods="com.mvn.testng.project.MvnTestNGTest.userRegistration" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" started-at="2024-09-18T05:04:10 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:10 PKT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" started-at="2024-09-18T05:04:10 PKT" name="tearDown" finished-at="2024-09-18T05:04:10 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="closeDb()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" started-at="2024-09-18T05:04:10 PKT" name="closeDb" finished-at="2024-09-18T05:04:10 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDb -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@1c7696c6]" started-at="2024-09-18T05:04:10 PKT" name="afterSuite" finished-at="2024-09-18T05:04:10 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.mvn.testng.project.MvnTestNGTest -->
+      <class name="com.mvn.testng.project.MVNTestNGTest1">
+        <test-method signature="validateTitle()[pri:0, instance:com.mvn.testng.project.MVNTestNGTest1@60099951]" started-at="2024-09-18T05:04:10 PKT" name="validateTitle" finished-at="2024-09-18T05:04:10 PKT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+      </class> <!-- com.mvn.testng.project.MVNTestNGTest1 -->
+    </test> <!-- Singnup -->
+  </suite> <!-- Sanity Suite -->
+  <suite started-at="2024-09-18T05:04:10 PKT" name="Parallel Data Provider Suite" finished-at="2024-09-18T05:04:11 PKT" duration-ms="1135">
+    <groups>
+      <group name="userRegistration">
+        <method signature="MvnTestNGTest.loginTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" name="loginTest" class="com.mvn.testng.project.MvnTestNGTest"/>
+      </group> <!-- userRegistration -->
+      <group name="login">
+        <method signature="MvnTestNGTest.loginTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" name="loginTest" class="com.mvn.testng.project.MvnTestNGTest"/>
+      </group> <!-- login -->
+    </groups>
+    <test started-at="2024-09-18T05:04:10 PKT" name="Data Provider" finished-at="2024-09-18T05:04:11 PKT" duration-ms="1135">
+      <class name="com.mvn.testng.project.MvnTestNGTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" started-at="2024-09-18T05:04:10 PKT" name="beforeSuite" finished-at="2024-09-18T05:04:10 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="createDbConnec()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" started-at="2024-09-18T05:04:10 PKT" name="createDbConnec" finished-at="2024-09-18T05:04:10 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDbConnec -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" started-at="2024-09-18T05:04:10 PKT" name="setUp" finished-at="2024-09-18T05:04:10 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="activeTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" started-at="2024-09-18T05:04:10 PKT" name="activeTest" finished-at="2024-09-18T05:04:10 PKT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- activeTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" started-at="2024-09-18T05:04:10 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:10 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method signature="loginTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" started-at="2024-09-18T05:04:10 PKT" name="loginTest" finished-at="2024-09-18T05:04:10 PKT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" started-at="2024-09-18T05:04:10 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:10 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method signature="repeatTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" started-at="2024-09-18T05:04:10 PKT" name="repeatTest" finished-at="2024-09-18T05:04:10 PKT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- repeatTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" started-at="2024-09-18T05:04:10 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:10 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method signature="repeatTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" started-at="2024-09-18T05:04:10 PKT" name="repeatTest" finished-at="2024-09-18T05:04:10 PKT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- repeatTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" started-at="2024-09-18T05:04:10 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:10 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method signature="repeatTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" started-at="2024-09-18T05:04:10 PKT" name="repeatTest" finished-at="2024-09-18T05:04:10 PKT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- repeatTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" started-at="2024-09-18T05:04:10 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:10 PKT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method signature="timeSensitiveTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" started-at="2024-09-18T05:04:10 PKT" name="timeSensitiveTest" finished-at="2024-09-18T05:04:11 PKT" duration-ms="1008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timeSensitiveTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" started-at="2024-09-18T05:04:11 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:11 PKT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method signature="userRegistration()[pri:1, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" started-at="2024-09-18T05:04:11 PKT" name="userRegistration" finished-at="2024-09-18T05:04:11 PKT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userRegistration -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" started-at="2024-09-18T05:04:11 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:11 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method signature="login()[pri:2, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" started-at="2024-09-18T05:04:11 PKT" name="login" finished-at="2024-09-18T05:04:11 PKT" depends-on-methods="com.mvn.testng.project.MvnTestNGTest.userRegistration" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" started-at="2024-09-18T05:04:11 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:11 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" started-at="2024-09-18T05:04:11 PKT" name="tearDown" finished-at="2024-09-18T05:04:11 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="closeDb()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" started-at="2024-09-18T05:04:11 PKT" name="closeDb" finished-at="2024-09-18T05:04:11 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDb -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@54c5a2ff]" started-at="2024-09-18T05:04:11 PKT" name="afterSuite" finished-at="2024-09-18T05:04:11 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.mvn.testng.project.MvnTestNGTest -->
+      <class name="com.mvn.testng.project.MyTest">
+        <test-method signature="testMethod(java.lang.String)[pri:0, instance:com.mvn.testng.project.MyTest@2a265ea9]" started-at="2024-09-18T05:04:11 PKT" name="testMethod" data-provider="dp" finished-at="2024-09-18T05:04:11 PKT" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Data1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method signature="testMethod(java.lang.String)[pri:0, instance:com.mvn.testng.project.MyTest@2a265ea9]" started-at="2024-09-18T05:04:11 PKT" name="testMethod" data-provider="dp" finished-at="2024-09-18T05:04:11 PKT" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Data2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method signature="testMethod(java.lang.String)[pri:0, instance:com.mvn.testng.project.MyTest@2a265ea9]" started-at="2024-09-18T05:04:11 PKT" name="testMethod" data-provider="dp" finished-at="2024-09-18T05:04:11 PKT" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Data3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method signature="testMethod(java.lang.String)[pri:0, instance:com.mvn.testng.project.MyTest@2a265ea9]" started-at="2024-09-18T05:04:11 PKT" name="testMethod" data-provider="dp" finished-at="2024-09-18T05:04:11 PKT" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Data4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+      </class> <!-- com.mvn.testng.project.MyTest -->
+      <class name="com.mvn.testng.project.MVNTestNGTest1">
+        <test-method signature="validateTitle()[pri:0, instance:com.mvn.testng.project.MVNTestNGTest1@6d4d66d2]" started-at="2024-09-18T05:04:11 PKT" name="validateTitle" finished-at="2024-09-18T05:04:11 PKT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+      </class> <!-- com.mvn.testng.project.MVNTestNGTest1 -->
+    </test> <!-- Data Provider -->
+  </suite> <!-- Parallel Data Provider Suite -->
+  <suite started-at="2024-09-18T05:04:11 PKT" name="ParallelExecutionSuite" finished-at="2024-09-18T05:04:13 PKT" duration-ms="2027">
+    <groups>
+    </groups>
+    <test started-at="2024-09-18T05:04:11 PKT" name="Test" finished-at="2024-09-18T05:04:13 PKT" duration-ms="2027">
+      <class name="com.mvn.testng.project.MyTestClass1">
+        <test-method signature="testMethod1()[pri:0, instance:com.mvn.testng.project.MyTestClass1@7d0b7e3c]" started-at="2024-09-18T05:04:11 PKT" name="testMethod1" finished-at="2024-09-18T05:04:13 PKT" duration-ms="2014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method signature="testMethod2()[pri:0, instance:com.mvn.testng.project.MyTestClass1@7d0b7e3c]" started-at="2024-09-18T05:04:11 PKT" name="testMethod2" finished-at="2024-09-18T05:04:13 PKT" duration-ms="2005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+      </class> <!-- com.mvn.testng.project.MyTestClass1 -->
+      <class name="com.mvn.testng.project.MyTestClass2">
+        <test-method signature="testMethod4()[pri:0, instance:com.mvn.testng.project.MyTestClass2@15bb5034]" started-at="2024-09-18T05:04:11 PKT" name="testMethod4" finished-at="2024-09-18T05:04:13 PKT" duration-ms="2006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod4 -->
+        <test-method signature="testMethod3()[pri:0, instance:com.mvn.testng.project.MyTestClass2@15bb5034]" started-at="2024-09-18T05:04:11 PKT" name="testMethod3" finished-at="2024-09-18T05:04:13 PKT" duration-ms="2013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod3 -->
+      </class> <!-- com.mvn.testng.project.MyTestClass2 -->
+    </test> <!-- Test -->
+  </suite> <!-- ParallelExecutionSuite -->
+  <suite started-at="2024-09-18T05:04:14 PKT" name="Master Suite" finished-at="2024-09-18T05:04:14 PKT" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- Master Suite -->
+  <suite started-at="2024-09-18T05:04:08 PKT" name="Regression Suite" finished-at="2024-09-18T05:04:09 PKT" duration-ms="1126">
+    <groups>
+      <group name="userRegistration">
+        <method signature="MvnTestNGTest.loginTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" name="loginTest" class="com.mvn.testng.project.MvnTestNGTest"/>
+      </group> <!-- userRegistration -->
+      <group name="login">
+        <method signature="MvnTestNGTest.loginTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" name="loginTest" class="com.mvn.testng.project.MvnTestNGTest"/>
+      </group> <!-- login -->
+    </groups>
+    <test started-at="2024-09-18T05:04:08 PKT" name="Login" finished-at="2024-09-18T05:04:09 PKT" duration-ms="1126">
+      <class name="com.mvn.testng.project.MvnTestNGTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" started-at="2024-09-18T05:04:08 PKT" name="beforeSuite" finished-at="2024-09-18T05:04:08 PKT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="createDbConnec()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" started-at="2024-09-18T05:04:08 PKT" name="createDbConnec" finished-at="2024-09-18T05:04:08 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDbConnec -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" started-at="2024-09-18T05:04:08 PKT" name="setUp" finished-at="2024-09-18T05:04:08 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="activeTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" started-at="2024-09-18T05:04:08 PKT" name="activeTest" finished-at="2024-09-18T05:04:08 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- activeTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" started-at="2024-09-18T05:04:08 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:08 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method signature="loginTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" started-at="2024-09-18T05:04:08 PKT" name="loginTest" finished-at="2024-09-18T05:04:08 PKT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" started-at="2024-09-18T05:04:08 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:08 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method signature="repeatTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" started-at="2024-09-18T05:04:08 PKT" name="repeatTest" finished-at="2024-09-18T05:04:08 PKT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- repeatTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" started-at="2024-09-18T05:04:08 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:08 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method signature="repeatTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" started-at="2024-09-18T05:04:08 PKT" name="repeatTest" finished-at="2024-09-18T05:04:08 PKT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- repeatTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" started-at="2024-09-18T05:04:08 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:08 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method signature="repeatTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" started-at="2024-09-18T05:04:08 PKT" name="repeatTest" finished-at="2024-09-18T05:04:08 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- repeatTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" started-at="2024-09-18T05:04:08 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:08 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method signature="timeSensitiveTest()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" started-at="2024-09-18T05:04:08 PKT" name="timeSensitiveTest" finished-at="2024-09-18T05:04:09 PKT" duration-ms="1017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timeSensitiveTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" started-at="2024-09-18T05:04:09 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:09 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method signature="userRegistration()[pri:1, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" started-at="2024-09-18T05:04:09 PKT" name="userRegistration" finished-at="2024-09-18T05:04:09 PKT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userRegistration -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" started-at="2024-09-18T05:04:09 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:09 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method signature="login()[pri:2, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" started-at="2024-09-18T05:04:09 PKT" name="login" finished-at="2024-09-18T05:04:09 PKT" depends-on-methods="com.mvn.testng.project.MvnTestNGTest.userRegistration" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" started-at="2024-09-18T05:04:09 PKT" name="closeBrowser" finished-at="2024-09-18T05:04:09 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" started-at="2024-09-18T05:04:09 PKT" name="tearDown" finished-at="2024-09-18T05:04:09 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="closeDb()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" started-at="2024-09-18T05:04:09 PKT" name="closeDb" finished-at="2024-09-18T05:04:09 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDb -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.mvn.testng.project.MvnTestNGTest@4b8ee4de]" started-at="2024-09-18T05:04:09 PKT" name="afterSuite" finished-at="2024-09-18T05:04:09 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.mvn.testng.project.MvnTestNGTest -->
+      <class name="com.mvn.testng.project.MVNTestNGTest1">
+        <test-method signature="validateTitle()[pri:0, instance:com.mvn.testng.project.MVNTestNGTest1@a530d0a]" started-at="2024-09-18T05:04:08 PKT" name="validateTitle" finished-at="2024-09-18T05:04:08 PKT" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+      </class> <!-- com.mvn.testng.project.MVNTestNGTest1 -->
+    </test> <!-- Login -->
+  </suite> <!-- Regression Suite -->
+</testng-results>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Sanity Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Singnup(failed)">
+    <classes>
+      <class name="com.mvn.testng.project.MvnTestNGTest">
+        <methods>
+          <include name="userRegistration"/>
+          <include name="closeDb"/>
+          <include name="createDbConnec"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- com.mvn.testng.project.MvnTestNGTest -->
+    </classes>
+  </test> <!-- Singnup(failed) -->
+</suite> <!-- Failed suite [Sanity Suite] -->

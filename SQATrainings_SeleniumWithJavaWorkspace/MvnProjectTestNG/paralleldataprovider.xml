@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Parallel Data Provider Suite">
+  <test thread-count="5" name="Data Provider">
+    <classes>
+	  <class name="com.mvn.testng.project.MvnTestNGTest"/>
+	  <class name="com.mvn.testng.project.MVNTestNGTest1"/>
+      <class name="com.mvn.testng.project.MyTest"/>
+     
+     
+    </classes>
+  </test> <!-- Data Provider -->
+</suite> <!-- Parallel Data Provider Suite -->

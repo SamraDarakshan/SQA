@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Sanity Suite">
+  <test name="Singnup">
+    <classes>
+	  <class name="com.mvn.testng.project.MvnTestNGTest"/>
+      <class name="com.mvn.testng.project.MVNTestNGTest1"/>
+    </classes>
+  </test> <!-- Singnup -->
+</suite> <!-- Sanity Suite -->

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ParallelExecutionSuite" parallel="methods" thread-count="4">
+  <test  name="Login">
+    <classes>
+      <class name="com.mvn.testng.project.MVNTestNGTest1"/>
+      <class name="com.mvn.testng.project.MvnTestNGTest"/>
+    </classes>
+  </test> <!-- Login -->
+</suite> <!-- Regression Suite -->
